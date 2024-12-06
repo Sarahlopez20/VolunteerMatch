@@ -12,7 +12,6 @@ json for controlling the loading and saving of JSON files.
 To support future functionalities, heapq and re are also implemented.
 
 **FILES**
-
 1. Finalvolunteer_and_organization_data.json
 
 This file will act as the main database that will store all the user and organization records. Its structure consists of a list of dictionaries, where each dictionary represents a user or organization. Each entry contains attributes such as email address, username, user type (e.g., volunteer or organization), password, and additional information specific to the user or organization. This centralized format makes data easier to access and manage.
@@ -43,6 +42,7 @@ Step 4: Save Database Modifications
 
 
 2. User Journey
+   
 Once the user enters the app, after signing up or logging in they will have to define the type of user they are. If a person that wants to become a volunteer, they will need to answer some questions in order to apply different filters.These questions include filters such as what type of missions they want to do to see if they prefer to be in a natural environment or if they prefer something health or education related.Another question asks the user if they have any certifications or experience, just to filter the volunteers options that require something specific. Once these questions are answered the user would be able to see the level of compatibility with different organisations and even if they have matched after the application process being able to keep track of their profile status.
 
 If instead the user is an organisation and wants to post a volunteering opportunity, they could also describe the position including important things such as if there is a language level required. Then they could accept and match with the user profiles.
