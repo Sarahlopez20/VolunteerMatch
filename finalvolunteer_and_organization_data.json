@@ -1,0 +1,347 @@
+[
+    {
+        "username": "teachingkids",
+        "email": "teachingkids@gmail.com",
+        "password": "teachingkids",
+        "user_type": "organization",
+        "details": {
+            "name": "TeachingKids",
+            "location": [
+                "madrid",
+                "london"
+            ],
+            "availability": "foraperiod",
+            "start_date": "2025-01-01T00:00:00",
+            "end_date": "2025-08-31T00:00:00",
+            "cause": [
+                "education",
+                "youth",
+                "health"
+            ],
+            "required_skills": [
+                "communication",
+                "social"
+            ],
+            "languages": [
+                "english",
+                "spanish"
+            ],
+            "description": "We provide education for all kids"
+        },
+        "interested_volunteers": [
+            "sarahlopez",
+            "adrianao"
+        ],
+        "potential_volunteers": [],
+        "matches": [
+            "sarahlopez"
+        ],
+        "feedback": [
+            "From sarahlopez: It was a very enriching experience"
+        ],
+        "ratings": [
+            {
+                "from": "sarahlopez",
+                "rating": 5.0
+            }
+        ]
+    },
+    {
+        "username": "AnimalCare",
+        "email": "animalcare@gmail.com",
+        "password": "animalcare",
+        "user_type": "organization",
+        "details": {
+            "name": "AnimalCare",
+            "location": [
+                "madrid",
+                "toledo",
+                "sevilla"
+            ],
+            "availability": "foraperiod",
+            "start_date": "2024-12-25T00:00:00",
+            "end_date": "2026-01-01T00:00:00",
+            "cause": [
+                "animal",
+                "health",
+                "environmental"
+            ],
+            "required_skills": [
+                "communication",
+                "teaching"
+            ],
+            "languages": [
+                "spanish"
+            ],
+            "description": "We try to look after animals"
+        },
+        "interested_volunteers": [
+            "sarahlopez"
+        ],
+        "potential_volunteers": [],
+        "matches": [],
+        "feedback": []
+    },
+    {
+        "username": "HealthandHealth",
+        "email": "healthissues@gmail.com",
+        "password": "healthandhealth",
+        "user_type": "organization",
+        "details": {
+            "name": "HealthandHealth",
+            "location": [
+                "madrid",
+                "london",
+                "paris"
+            ],
+            "availability": "foraperiod",
+            "start_date": "2025-01-01T00:00:00",
+            "end_date": "2027-01-01T00:00:00",
+            "cause": [
+                "youth",
+                "humanitarian",
+                "health"
+            ],
+            "required_skills": [
+                "social",
+                "teamwork"
+            ],
+            "languages": [
+                "spanish",
+                "english",
+                "french"
+            ],
+            "description": "We ensure everybody has a place to look after their health"
+        },
+        "interested_volunteers": [
+            "sana",
+            "alba"
+        ],
+        "potential_volunteers": [
+            "sanakapur",
+            "adrianao",
+            "sarahlopez"
+        ],
+        "matches": [
+            "sana",
+            "alba"
+        ],
+        "feedback": []
+    },
+    {
+        "username": "sarahlopez",
+        "email": "sarah@gmail.com",
+        "password": "holabuenas",
+        "user_type": "volunteer",
+        "details": {
+            "name": "Sarah",
+            "location": [
+                "madrid",
+                "toledo",
+                "zaragoza"
+            ],
+            "availability": "foraperiod",
+            "start_date": "2025-01-01T00:00:00",
+            "end_date": "2026-01-01T00:00:00",
+            "cause": [
+                "education",
+                "youth"
+            ],
+            "required_skills": [
+                "communication",
+                "teamwork"
+            ],
+            "languages": [
+                "english",
+                "spanish"
+            ]
+        },
+        "interested_organizations": [
+            "HealthandHealth"
+        ],
+        "potential_organizations": [
+            "AnimalCare"
+        ],
+        "matches": [
+            "teachingkids"
+        ],
+        "feedback": [
+            "From teachingkids: she is very hard working and responsible"
+        ],
+        "ratings": [
+            {
+                "from": "teachingkids",
+                "rating": 5.0
+            }
+        ]
+    },
+    {
+        "username": "sana",
+        "email": "sana@gmail.com",
+        "password": "sana",
+        "user_type": "volunteer",
+        "details": {
+            "name": "Sana",
+            "location": [
+                "madrid",
+                "paris"
+            ],
+            "availability": "foraperiod",
+            "start_date": "2025-01-01T00:00:00",
+            "end_date": "2026-01-01T00:00:00",
+            "cause": [
+                "animal",
+                "youth"
+            ],
+            "required_skills": [
+                "social",
+                "teamwork"
+            ],
+            "languages": [
+                "english"
+            ]
+        },
+        "interested_organizations": [],
+        "potential_organizations": [],
+        "matches": [
+            "HealthandHealth"
+        ],
+        "feedback": []
+    },
+    {
+        "username": "sanakapur",
+        "email": "sanakapur@gmail.com",
+        "password": "1234",
+        "user_type": "volunteer",
+        "details": {
+            "name": "SanaKapur",
+            "location": [
+                "madrid",
+                "paris"
+            ],
+            "availability": "foraperiod",
+            "start_date": "2025-01-01T00:00:00",
+            "end_date": "2026-01-01T00:00:00",
+            "cause": [
+                "animal",
+                "health"
+            ],
+            "required_skills": [
+                "social",
+                "teamwork"
+            ],
+            "languages": [
+                "english",
+                "hindi"
+            ]
+        },
+        "interested_organizations": [
+            "HealthandHealth"
+        ],
+        "potential_organizations": [],
+        "matches": [],
+        "feedback": []
+    },
+    {
+        "username": "carla",
+        "email": "carla@gmail.com",
+        "password": "holabuenas",
+        "user_type": "volunteer",
+        "details": {
+            "name": "Carla Gomez",
+            "location": [
+                "madrid"
+            ],
+            "availability": "foraperiod",
+            "start_date": "2025-01-01T00:00:00",
+            "end_date": "2027-01-01T00:00:00",
+            "cause": [
+                "animal",
+                "youth",
+                "education"
+            ],
+            "required_skills": [
+                "communication"
+            ],
+            "languages": [
+                "spanish",
+                "english"
+            ]
+        },
+        "interested_organizations": [],
+        "potential_organizations": [],
+        "matches": [],
+        "feedback": []
+    },
+    {
+        "username": "adrianao",
+        "email": "adri@gmail.com",
+        "password": "holabuenas",
+        "user_type": "volunteer",
+        "details": {
+            "name": "Adriana Oroza",
+            "location": [
+                "madrid",
+                "london"
+            ],
+            "availability": "foraperiod",
+            "start_date": "2025-01-01T00:00:00",
+            "end_date": "2026-01-01T00:00:00",
+            "cause": [
+                "education",
+                "youth",
+                "health"
+            ],
+            "required_skills": [
+                "communication"
+            ],
+            "languages": [
+                "spanish",
+                "english"
+            ]
+        },
+        "interested_organizations": [
+            "HealthandHealth"
+        ],
+        "potential_organizations": [
+            "teachingkids"
+        ],
+        "matches": [],
+        "feedback": []
+    },
+    {
+        "username": "alba",
+        "email": "alba@gmail.com",
+        "password": "holabuenas",
+        "user_type": "volunteer",
+        "details": {
+            "name": "Alba Hernandez",
+            "location": [
+                "madrid",
+                "london"
+            ],
+            "availability": "foraperiod",
+            "start_date": "2025-01-01T00:00:00",
+            "end_date": "2025-06-30T00:00:00",
+            "cause": [
+                "education",
+                "environmental"
+            ],
+            "required_skills": [
+                "health",
+                "teamwork"
+            ],
+            "languages": [
+                "spanish",
+                "english",
+                "french"
+            ]
+        },
+        "interested_organizations": [],
+        "potential_organizations": [],
+        "matches": [
+            "HealthandHealth"
+        ],
+        "feedback": []
+    }
+]
